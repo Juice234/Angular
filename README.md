@@ -1,1 +1,1 @@
-![alt text]([http://url/to/img.png](https://i2-prod.irishmirror.ie/incoming/article11992356.ece/ALTERNATES/s1200b/1_young-offenders-feat.jpg)https://i2-prod.irishmirror.ie/incoming/article11992356.ece/ALTERNATES/s1200b/1_young-offenders-feat.jpg)
+![alt text](https://www.irishtimes.com/resizer/ZWSHXNvsQ8j70mSojVtvZDoyXwM=/1600x900/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7P2JOZ54AMY6IBVDBVRCPVXMNQ.jpg)
